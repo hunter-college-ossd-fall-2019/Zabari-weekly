@@ -19,6 +19,9 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | link to my contribution    | Blog Edit    |   I fixed a broken link.    |
-|     |     |     |      |
+|  2   | https://www.openstreetmap.org/changeset/74404357#map=19/40.73003/-74.00016    | OpenStreetMap edit    | Added a missing place.    |
+|  2   |  https://www.openstreetmap.org/changeset/74404089#map=19/40.73111/-73.99337   | OpenStreetMap edit    | Added a missing place.     |
+|  2   | https://www.openstreetmap.org/changeset/74403702#map=19/40.72969/-73.98958    | OpenStreetMap edit    | Changed status of closed location.     |
+|  2   | https://www.openstreetmap.org/changeset/74403500#map=19/40.72964/-73.98962    | OpenStreetMap edit    | Changed status of closed location.     |
+|  4   | https://github.com/pcottle/learnGitBranching/pull/605    | GitHub contribution    | Edited text on a git tutorial site, for humorous purposes.     |
 |     |     |     |      |
