@@ -25,4 +25,6 @@ Replace the first row below with your contribution.
 |  2   | [https://www.openstreetmap.org/changeset/74403500#map=19/40.72964/-73.98962](https://www.openstreetmap.org/changeset/74403500#map=19/40.72964/-73.98962)    | OpenStreetMap edit    | Changed status of closed location.     |
 |  4   | [https://github.com/pcottle/learnGitBranching/pull/605](https://github.com/pcottle/learnGitBranching/pull/605)    | GitHub contribution    | Edited text on a git tutorial site, for humorous purposes.     |
 |  7   | [https://github.com/pmodels/mpich/pull/4083](https://github.com/pmodels/mpich/pull/4083)    | GitHub contribution    | Fixed typos in docs and comments.     |
+|  9   | [https://www.openstreetmap.org/changeset/76177586#map=19/40.72971/-73.98873](https://www.openstreetmap.org/changeset/76177586#map=19/40.72971/-73.98873)    | OpenStreetMap edit    | Added a missing place.    |
+|  9   | [https://www.openstreetmap.org/changeset/76204762#map=19/40.72969/-73.98727](https://www.openstreetmap.org/changeset/76204762#map=19/40.72969/-73.98727)    | OpenStreetMap edit    | Added a missing place.    |
 |     |     |     |      |
