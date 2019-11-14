@@ -27,4 +27,5 @@ Replace the first row below with your contribution.
 |  7   | [https://github.com/pmodels/mpich/pull/4083](https://github.com/pmodels/mpich/pull/4083)    | GitHub contribution    | Fixed typos in docs and comments.     |
 |  9   | [https://www.openstreetmap.org/changeset/76177586#map=19/40.72971/-73.98873](https://www.openstreetmap.org/changeset/76177586#map=19/40.72971/-73.98873)    | OpenStreetMap edit    | Added a missing place.    |
 |  9   | [https://www.openstreetmap.org/changeset/76204762#map=19/40.72969/-73.98727](https://www.openstreetmap.org/changeset/76204762#map=19/40.72969/-73.98727)    | OpenStreetMap edit    | Added a missing place.    |
+|  11   | [https://en.wikipedia.org/w/index.php?title=Ayyathan_Gopalan&oldid=926084107](https://en.wikipedia.org/w/index.php?title=Ayyathan_Gopalan&oldid=926084107)    | Wikipedia edit    | Fixed grammar.    |
 |     |     |     |      |
