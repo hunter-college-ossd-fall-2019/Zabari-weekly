@@ -28,4 +28,9 @@ Replace the first row below with your contribution.
 |  9   | [https://www.openstreetmap.org/changeset/76177586#map=19/40.72971/-73.98873](https://www.openstreetmap.org/changeset/76177586#map=19/40.72971/-73.98873)    | OpenStreetMap edit    | Added a missing place.    |
 |  9   | [https://www.openstreetmap.org/changeset/76204762#map=19/40.72969/-73.98727](https://www.openstreetmap.org/changeset/76204762#map=19/40.72969/-73.98727)    | OpenStreetMap edit    | Added a missing place.    |
 |  11   | [https://en.wikipedia.org/w/index.php?title=Ayyathan_Gopalan&oldid=926084107](https://en.wikipedia.org/w/index.php?title=Ayyathan_Gopalan&oldid=926084107)    | Wikipedia edit    | Fixed grammar.    |
+|  12   | [https://en.wikipedia.org/w/index.php?title=Delhi_Capitals&oldid=927246722](https://en.wikipedia.org/w/index.php?title=Delhi_Capitals&oldid=927246722)    | Wikipedia edit    | Fixed grammar.    |
+|  12   | [https://en.wikipedia.org/w/index.php?title=Colorado_River_Delta&oldid=927246280](https://en.wikipedia.org/w/index.php?title=Colorado_River_Delta&oldid=927246280)    | Wikipedia edit    | Added hyperlink.    |
+|  12   | [https://en.wikipedia.org/w/index.php?title=Emma_Harris&oldid=927245739](https://en.wikipedia.org/w/index.php?title=Emma_Harris&oldid=927245739)    | Wikipedia edit    | Fixed grammar.    |
+|  12   | [https://en.wikipedia.org/w/index.php?title=Hairy_Maclary&oldid=927245347](https://en.wikipedia.org/w/index.php?title=Hairy_Maclary&oldid=927245347)    | Wikipedia edit    | Fixed grammar.    |
+|  12   | [https://github.com/osquery/osquery/pull/6055](https://github.com/osquery/osquery/pull/6055)    | GitHub contribution    | Fixed cmakefile for older versions of git.    |
 |     |     |     |      |
